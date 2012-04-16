@@ -9,5 +9,5 @@ package ejemplogithub;
  * @author Arturo
  */
 public class Ejemplo2 {
-    
+    //programar cosas
 }
